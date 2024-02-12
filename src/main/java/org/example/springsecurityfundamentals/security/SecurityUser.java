@@ -1,7 +1,6 @@
 package org.example.springsecurityfundamentals.security;
 
 import lombok.RequiredArgsConstructor;
-import org.example.springsecurityfundamentals.entities.Authority;
 import org.example.springsecurityfundamentals.entities.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
